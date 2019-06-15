@@ -1,7 +1,10 @@
 <h1> Projects </h1>
 
 <ul>
-  <li><a href="https://codepen.io/olhaith/pen/mvvyLM">Home</a></li>
+  <li><a href="https://codepen.io/olhaith/pen/zeeGLw">Menu Option 1</a></li>
+  <h2> Task <h2>
+    <p> User clicks on "+" sign, the content appeared</p>
+    <p> User clicks on "-" sign, the content disappeared</p>
   <li><a href="https://codepen.io/olhaith/pen/vbjegg">News</a></li>
   <li><a href="https://codepen.io/olhaith/pen/OrVbzV">Contact</a></li>
   <li><a href="https://codepen.io/olhaith/pen/qgVbVr">About</a></li>  
