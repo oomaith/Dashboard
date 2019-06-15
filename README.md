@@ -2,7 +2,7 @@
 
 <ul>
   <li><a href="https://codepen.io/olhaith/pen/zeeGLw">Menu Option 1</a></li>
-  <h2> Task <h2>
+  <p> <bold> Task </bold> <p>
     <p> User clicks on "+" sign, the content appeared</p>
     <p> User clicks on "-" sign, the content disappeared</p>
   <li><a href="https://codepen.io/olhaith/pen/vbjegg">News</a></li>
